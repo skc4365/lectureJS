@@ -12,7 +12,6 @@ function getAbled() {
     btnStyle.cursor = "pointer";
     btnStyle.background = "pink";
 }
-
 // 변수의 값은 콘솔에서 확인한다.
 let result;
 
